@@ -1,0 +1,46 @@
+ .heading2{
+    color: red;
+    font-style: italic;
+ }
+ .Gk{
+    color: darkred;
+   
+
+ }
+ .GK{
+    background-color: yellow;
+    font-weight: bolder;
+ }
+ .min{
+    text-decoration: line-through;
+    font-weight: bolder;  
+    
+ }
+ .vk{
+    text-decoration-line: underline;
+     
+         }
+
+
+ .ganesh{
+    color: darkred;
+    letter-spacing: 5px;
+   
+}
+
+ 
+ .man{
+    background-color: yellow;
+   letter-spacing: 5px;
+   font-weight: bold;
+}
+ 
+ .mk{
+    color:darkred;
+ }
+.mrgk{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    font-weight: bold;
+}
